@@ -1,6 +1,6 @@
 @keyframes animation {
   0% {
-    transform: scale(0.5);
+    transform: scale(0.75);
     opacity: 0.5;
   }
   100% {
@@ -183,7 +183,7 @@ input:checked~.box-wrapper {
     font-size: 0.5rem;
   }
   .container {
-    padding: 1rem 1.5rem 1/5rem;
+    padding: 1rem 1.5rem 1.5rem;
   }
   h1 {
     margin-bottom: 0.5rem;
